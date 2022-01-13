@@ -1,0 +1,6 @@
+dockerTrainging/docker/DockerApplication.class
+dockerTrainging/docker/Repo/UserRepo.class
+dockerTrainging/docker/Controller/Homepage.class
+dockerTrainging/docker/model/Userr.class
+dockerTrainging/docker/model/School.class
+dockerTrainging/docker/Repo/SchoolRepo.class
